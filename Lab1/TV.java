@@ -5,11 +5,14 @@
 // Lab question: Lab 1 Question 2
 
 public class TV {
-    int channel=2;
-    int volumeLevel=1;
-    boolean on = false;
+    int channel;
+    int volumeLevel;
+    boolean on;
 
     public TV(){
+        channel=2;
+        volumeLevel=1;
+        on=false;
     }
 
     public void turnOn(){
