@@ -1,3 +1,4 @@
+package Lab2;
 // Author name: MUHAMMAD AIMAN SYAFIQ BIN MD.ARIFIN
 // Matric No: 210564
 // Lecturer: DR MOHD IZUAN HAFEZ BIN NINGGAL
